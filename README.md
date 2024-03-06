@@ -1,5 +1,5 @@
-# GO!!!
-## 2024 - ??? 旅行PLAN
+# Be patient plz
+## Learning Git skills
 ```
 请严格遵守Markdown语法
 ```
